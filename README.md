@@ -1,0 +1,2 @@
+# dedecms-customize
+Customized
